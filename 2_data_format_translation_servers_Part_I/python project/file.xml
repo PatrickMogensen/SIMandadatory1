@@ -1,0 +1,9 @@
+<me>
+    <name>Anders</name>
+    <age>33</age>
+    <likesProgramming>true</likesProgramming>
+    <hobbies>
+        <hobby>Music</hobby>
+        <hobby>Playing with Napster</hobby>
+    </hobbies>
+</me>

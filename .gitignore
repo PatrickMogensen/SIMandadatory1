@@ -1,0 +1,4 @@
+# Project exclude paths
+/1 file format bonanza/node_modules/
+/2_data_format_translation_servers_Part_I/node_modules/
+/3_Date_servers_Part_1_and_2/node_project/node_modules/

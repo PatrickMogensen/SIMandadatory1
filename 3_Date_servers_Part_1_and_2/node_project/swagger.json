@@ -1,0 +1,62 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "My API",
+        "version": "1.0.0"
+    },
+    "paths": {"/time": {
+        "get": {
+            "summary": "Get time",
+            "description": "Get time",
+            "operationId": "getTime",
+            "responses": {
+                "200": {
+                    "description": "Time",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "time": {
+                                        "type": "string",
+                                        "description": "Time"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }, "/request-time": {
+        "get": {
+            "summary": "Get request time",
+            "description": "Get request time",
+            "operationId": "getRequestTime",
+            "responses": {
+                "200": {
+                    "description": "Request time",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "requestTime": {
+                                        "type": "string",
+                                        "description": "Request time"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    } }, 
+    "servers": [
+        {
+            "url": "http://localhost:8080",
+            "description": "Local server"
+        }
+    ]
+}

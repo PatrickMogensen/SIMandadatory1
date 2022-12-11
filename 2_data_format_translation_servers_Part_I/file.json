@@ -1,0 +1,52 @@
+
+[{
+  "make": "Mercury",
+  "model": "Sable",
+  "year": 1998,
+  "color": "Yellow"
+}, {
+  "make": "Mercedes-Benz",
+  "model": "G-Class",
+  "year": 2010,
+  "color": "Fuscia"
+}, {
+  "make": "Buick",
+  "model": "LeSabre",
+  "year": 1994,
+  "color": "Khaki"
+}, {
+  "make": "Toyota",
+  "model": "FJ Cruiser",
+  "year": 2012,
+  "color": "Turquoise"
+}, {
+  "make": "Pontiac",
+  "model": "Grand Prix",
+  "year": 1966,
+  "color": "Mauv"
+}, {
+  "make": "Nissan",
+  "model": "Pathfinder",
+  "year": 1999,
+  "color": "Yellow"
+}, {
+  "make": "Chevrolet",
+  "model": "Caprice",
+  "year": 1994,
+  "color": "Purple"
+}, {
+  "make": "Lexus",
+  "model": "LX",
+  "year": 2008,
+  "color": "Aquamarine"
+}, {
+  "make": "Pontiac",
+  "model": "G3",
+  "year": 2009,
+  "color": "Blue"
+}, {
+  "make": "Dodge",
+  "model": "Ram 2500",
+  "year": 2003,
+  "color": "Orange"
+}]
